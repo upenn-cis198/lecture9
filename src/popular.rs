@@ -174,5 +174,5 @@ lazy_static! {
     Bitflags
     https://docs.rs/bitflags/1.2.1/bitflags/
 
-    See example there
+    See example there.
 */

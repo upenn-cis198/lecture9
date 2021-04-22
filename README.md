@@ -27,5 +27,3 @@
 - Popular crates
 
 - Parallelism
-
-- Networking and asynchronous programming
