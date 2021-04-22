@@ -21,3 +21,11 @@
   https://piazza.com/class/kk1ztsqrs3o51h?cid=105
 
 ## Outline
+
+- File structure for organizing medium- to large-size projects
+
+- Popular crates
+
+- Parallelism
+
+- Networking and asynchronous programming
